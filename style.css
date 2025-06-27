@@ -1,0 +1,16 @@
+
+body {
+    background-color: #0d0d0d;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    padding: 50px;
+}
+.mascot {
+    max-width: 300px;
+    margin-bottom: 20px;
+}
